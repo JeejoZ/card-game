@@ -1,3 +1,7 @@
 # card-game
 
-gottem
+gottem()
+{
+  if(gottem == gottem)
+    gottem
+}
